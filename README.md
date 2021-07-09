@@ -1,4 +1,4 @@
 # expandHorizontally moves content vertically
 
-![Screen recording of the behavior](example.gif "Screen recording")
+![Screen recording of the behavior](demo.gif "Screen recording")
 
